@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
 
-# Module XXX
+# Module Block Tools
 #### for XOOPS 2.5.8
 
 Module Version 2.01
@@ -14,22 +14,22 @@ Tutorial Version 1.0
 
 ## View it on: [![Gitbook](http://xoops.org/images/logoGitbookSmall.png)](https://www.gitbook.com/book/xoops/XXX-tutorial/) 
 
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))  
+© 2017 XOOPS Project ([www.xoops.org](http://xoops.org))  
 
 ## Module Purpose 
 
-This module is for .....
+This module is for creating anywhere blocks 
 
 ![image001.png](en/assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the Block Tools Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/XXX))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/block tools))** 
 
 ## How to Contribute
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/XXX-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/XXX-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/XXX-tutorial) changes.
+[You can contribute on GitHub](https://github.com/XoopsDocs/blocktools-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/blocktools-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/blocktools-tutorial) changes.
 
 Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
