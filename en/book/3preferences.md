@@ -1,3 +1,4 @@
 # 3.0 Preferences
 
-![](../assets/image002.png)
+This module doesn't have any preferences at the moment. 
+
