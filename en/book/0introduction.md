@@ -8,5 +8,5 @@ The key question is how to fully customize your XOOPS home page, without the lim
 
 One of them is the Block Tools module, developed by **Susheng Yang** from China.
 
-Before we move with explaining the module, we highly recommend the book for everybody who would like to learn how to design websites using XOOPS.
+Before we move with explaining the module, we highly recommend the book for everybody who would like to learn how to design websites using XOOPS. You can purchase the book on [**Amazon**](https://goo.gl/X2L1EK)
 
