@@ -1,29 +1,33 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module XXX
+# Module Block Tools
 #### for XOOPS 2.5.8
 
-Module Version x.xx
+Module Version 2.01
 
-Tutorial Version x.xx
+Tutorial Version 1.0      
+
       
 ![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
-© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))  
+© 2017 XOOPS Project ([www.xoops.org](http://xoops.org))  
+
 
 ## Module Purpose 
 
-This module is for .....
+
+This module is for creating blocks anywhere on your XOOPS Website 
 
 ![image001.png](assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the Block ToolModule (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/XXX))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/block tools))** 
+
 
 ## How to Contribute
 
