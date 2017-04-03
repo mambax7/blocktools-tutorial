@@ -18,7 +18,7 @@ Tutorial Version 1.0
 
 ## Module Purpose 
 
-This module is for creating anywhere blocks 
+This module is for creating blocks anywhere on your XOOPS Website 
 
 ![image001.png](en/assets/image001.png)
 *Figure 1: Main view of the Block Tools Module (Admin side)*
