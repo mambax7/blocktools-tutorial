@@ -4,9 +4,9 @@
 # Module XXX
 #### for XOOPS 2.5.8
 
-Module Version x.xx
+Module Version 2.01
 
-Tutorial Version x.xx      
+Tutorial Version 1.0      
 	  
 ![logoModule.png](en/assets/logoModule.png)
             
