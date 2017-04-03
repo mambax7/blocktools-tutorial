@@ -6,7 +6,7 @@ As written in the "**Designing for XOOPS**'  book by **Sun Ruoyu**, "XOOPS provi
 
 The key question is how to fully customize your XOOPS home page, without the limitation of the block system. Well, it may sound a bit fancy and high-tech, but actually it isn’t. Thanks to the work of some module developers, we have several solutions available."
 
-One of them is the XOOPS Tools module, developed by **Susheng Yang** from China.
+One of them is the Block Tools module, developed by **Susheng Yang** from China.
 
-We highly recommend the book for everybody who would like to learn how to design websites using XOOPS.
+Before we move with explaining the module, we highly recommend the book for everybody who would like to learn how to design websites using XOOPS.
 
