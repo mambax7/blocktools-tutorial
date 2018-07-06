@@ -1,8 +1,8 @@
-# 8.0 Other
+# Other
 
 There were other solutions similar to this one:
 
-**1\) Blocks Anywhere developed by **[**Trabis**](https://www.xuups.com/modules/publisher/item.php?itemid=10)
+**1\) Blocks Anywhere developed by** [**Trabis**](https://www.xuups.com/modules/publisher/item.php?itemid=10)
 
 On his Website he describes the module this way:
 
@@ -18,7 +18,7 @@ Replace '1' by the id of the block you want to display.
 
 You can find id of block in blocks admin, just hover the mouse over block edit link and you will see something like this:
 
-```
+```php
 yoursite/modules/system/admin.php?fct=blocksadmin&op=edit&bid=3
 ```
 
@@ -36,7 +36,7 @@ Version 1.1 brings you some new cool options such as:
 
 Code examples:
 
-```smarty
+```markup
 <{block id=1 display="title"}>   displays just the block title
 <{block id=1}>                   displays just the block content
 <{block id=7 display="none"}>    does not display nothing but executes the block, this can go for online block or to trigger some cron block
