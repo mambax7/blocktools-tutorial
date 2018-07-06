@@ -4,7 +4,7 @@
 
 ## Module Block Tools
 
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
 
 Module Version 2.01
 
@@ -16,7 +16,7 @@ Tutorial Version 1.0
 
 ### View it on: [![Gitbook](https://xoops.org/images/logoGitbookSmall.png)](https://www.gitbook.com/book/xoops/XXX-tutorial/)
 
-© 2017 XOOPS Project \([www.xoops.org](https://xoops.org)\)
+© 2018 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
